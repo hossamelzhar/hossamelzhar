@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Hossam Elzhar
+<h3 align="center">A Passionate Embedded Software Engineer
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/hossam-elzhar/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
 
 <!--
 **hossamelzhar/hossamelzhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
