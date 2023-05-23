@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Hossam Elzhar
-<h3 align="center">A Passionate Embedded Software Engineer
+<h3 align="center">Embedded Software Engineer
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hossam-elzhar/">
